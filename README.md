@@ -27,9 +27,9 @@ $ python insta.py
 
 # update
 
-$ cd mbfv2
+$ cd insta3
 
 $ git pull
 
-$ python runn.py
+$ python insta.py
 # insta3
